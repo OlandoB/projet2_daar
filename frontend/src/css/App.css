@@ -1,0 +1,16 @@
+.body {
+  background-image: url('../img/akala.png');
+  background-size: cover;
+  height: 97vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px #000;
+}

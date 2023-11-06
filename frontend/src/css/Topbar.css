@@ -1,0 +1,21 @@
+.top-bar {
+  background: #f44336;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.top-bar button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.top-bar .active {
+  font-weight: bold;
+  text-decoration: underline;
+}
